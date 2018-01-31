@@ -20,6 +20,7 @@ hexo.on('generateBefore', function () {
 });
 
 hexo.on('generateAfter', function () {
+/**
   hexo.log.warn("===============================================================");
   hexo.log.warn("========================= ATTENTION! ==========================");
   hexo.log.warn("===============================================================");
@@ -27,4 +28,5 @@ hexo.on('generateAfter', function () {
   hexo.log.warn("===============================================================");
   hexo.log.warn(" It's rebase to v6.0.0 and future maintenance will resume there");
   hexo.log.warn("===============================================================");
+**/
 });
