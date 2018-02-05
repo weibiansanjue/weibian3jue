@@ -3,4 +3,6 @@ debug.log
 db.json
 .deploy_git/
 source/.DS_Store
-source/_posts/.DS_Store
+source/_posts/*
+BlogPaper/
+commit.sh
