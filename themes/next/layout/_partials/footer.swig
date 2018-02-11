@@ -26,7 +26,7 @@
   #}{{ __('footer.powered', '<a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a>') }}{#
 #}</div>
 {% endif %}
-<span class="post-meta-divider">|本站访客数:</span>
+<span class="post-meta-divider">本站访客数:</span>
 <span id="busuanzi_container_site_uv">
   <span id="busuanzi_value_site_uv"></span> /
 </span>
