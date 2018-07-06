@@ -6,3 +6,4 @@ source/.DS_Store
 source/_posts/*
 BlogPaper/
 commit.sh
+.DS_Store
