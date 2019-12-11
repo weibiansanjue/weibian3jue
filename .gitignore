@@ -7,3 +7,4 @@ source/_posts/*
 BlogPaper/
 commit.sh
 .DS_Store
+backuppage.sh
